@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="safe_search_array">
+        <item>active</item>
+        <item>moderate</item>
+        <item>off</item>
+    </string-array>
+</resources>
